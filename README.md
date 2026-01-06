@@ -36,7 +36,10 @@ An AI-powered book editing pipeline that:
 
 ---
 
-## 📂 File Structure
+
+## 📁 Project Structure
+
+```
 auto_book_pub/
 ├── main.py # Scraping entry point
 ├── ai_flow.py # Full AI pipeline
@@ -49,6 +52,7 @@ auto_book_pub/
 ├── human_edits/ # Optional human inputs
 ├── chapter_1.* # Generated files
 └── requirements.txt # Dependencies
+```
 
 ---
 
