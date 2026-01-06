@@ -8,10 +8,6 @@ An AI-powered book editing pipeline that:
 - Stores versions semantically (ChromaDB)
 - Enables semantic search across versions
 
-> ✅ **Internship Round-1 Submission Ready**  
-> ✅ **100% Local Execution** (No API dependencies)  
-> ✅ **Modular Agent Architecture**
-
 ---
 ## 📽️ Demo Video
 🎬 [Watch Demo](https://drive.google.com/file/d/1lBN_dJRn-8AmKFK_x7HSCX_LXK4WnxXu/view?usp=sharing)
